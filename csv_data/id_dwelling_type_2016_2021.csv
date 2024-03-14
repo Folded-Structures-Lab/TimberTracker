@@ -1,0 +1,141 @@
+WebID,Area,Data label,2021,2021%,2016,2016%,Data Type
+10,South East Queensland,Separate house,1065100,68.6235,979388,71.0218,EN
+10,South East Queensland,Medium density,275174,17.7292,236728,17.1667,EN
+10,South East Queensland,High density,196513,12.6612,141188,10.2385,EN
+10,South East Queensland,"Caravans, cabin, houseboat",9196,0.5925,12252,0.8885,EN
+10,South East Queensland,Other,2146,0.1383,3109,0.2255,EN
+10,South East Queensland,Not stated,3964,0.2554,6332,0.4592,EN
+10,South East Queensland,Total Private Dwellings,1552093,100,1378997,100,EN
+20,Greater Brisbane,Separate house,726545,71.4619,671213,74.4307,EN
+20,Greater Brisbane,Medium density,164113,16.1419,138324,15.3387,EN
+20,Greater Brisbane,High density,118408,11.6464,81463,9.0334,EN
+20,Greater Brisbane,"Caravans, cabin, houseboat",4506,0.4432,5414,0.6004,EN
+20,Greater Brisbane,Other,1060,0.1043,1774,0.1967,EN
+20,Greater Brisbane,Not stated,2057,0.2023,3608,0.4001,EN
+20,Greater Brisbane,Total Private Dwellings,1016689,100,901796,100,EN
+25,Regional Queensland,Separate house,849452,72.3724,792416,72.9998,EN
+25,Regional Queensland,Medium density,191573,16.3218,173498,15.9832,EN
+25,Regional Queensland,High density,93453,7.9621,74050,6.8217,EN
+25,Regional Queensland,"Caravans, cabin, houseboat",25695,2.1892,30306,2.7919,EN
+25,Regional Queensland,Other,4657,0.3968,6679,0.6153,EN
+25,Regional Queensland,Not stated,8893,0.7577,8556,0.7882,EN
+25,Regional Queensland,Total Private Dwellings,1173723,100,1085505,100,EN
+30,Greater Sydney,Separate house,1108781,53.4023,1021148,55.0261,EN
+30,Greater Sydney,Medium density,390251,18.7957,376252,20.2749,EN
+30,Greater Sydney,High density,561671,27.0518,436793,23.5372,EN
+30,Greater Sydney,"Caravans, cabin, houseboat",2233,0.1075,3364,0.1813,EN
+30,Greater Sydney,Other,8639,0.4161,10177,0.5484,EN
+30,Greater Sydney,Not stated,4706,0.2267,8019,0.4321,EN
+30,Greater Sydney,Total Private Dwellings,2076281,100,1855753,100,EN
+35,Greater Melbourne,Separate house,1339408,65.0997,1211732,66.1412,EN
+35,Greater Melbourne,Medium density,444307,21.5948,420230,22.9378,EN
+35,Greater Melbourne,High density,263393,12.8018,184733,10.0835,EN
+35,Greater Melbourne,"Caravans, cabin, houseboat",2502,0.1216,3571,0.1949,EN
+35,Greater Melbourne,Other,5573,0.2709,6362,0.3473,EN
+35,Greater Melbourne,Not stated,2289,0.1113,5410,0.2953,EN
+35,Greater Melbourne,Total Private Dwellings,2057472,100,1832038,100,EN
+40,Queensland,Separate house,1575993,71.9492,1463627,73.6487,EN
+40,Queensland,Medium density,355691,16.2384,311823,15.6907,EN
+40,Queensland,High density,211862,9.6722,155509,7.8251,EN
+40,Queensland,"Caravans, cabin, houseboat",30204,1.3789,35721,1.7975,EN
+40,Queensland,Other,5721,0.2612,8458,0.4256,EN
+40,Queensland,Not stated,10955,0.5001,12171,0.6124,EN
+40,Queensland,Total Private Dwellings,2190426,100,1987309,100,EN
+50,Australia,Separate house,7624415,70.2568,7042759,71.1282,EN
+50,Australia,Medium density,1875549,17.2826,1769161,17.8676,EN
+50,Australia,High density,1195135,11.0128,898371,9.0731,EN
+50,Australia,"Caravans, cabin, houseboat",87521,0.8065,96630,0.9759,EN
+50,Australia,Other,34714,0.3199,47544,0.4802,EN
+50,Australia,Not stated,34883,0.3214,47031,0.475,EN
+50,Australia,Total Private Dwellings,10852217,100,9901496,100,EN
+100,City of Brisbane,Separate house,312029,60.1591,300884,64.9002,EN
+100,City of Brisbane,Medium density,92418,17.8182,81606,17.6023,EN
+100,City of Brisbane,High density,111134,21.4266,76044,16.4026,EN
+100,City of Brisbane,"Caravans, cabin, houseboat",1414,0.2726,1905,0.4109,EN
+100,City of Brisbane,Other,456,0.0879,993,0.2142,EN
+100,City of Brisbane,Not stated,1222,0.2356,2178,0.4698,EN
+100,City of Brisbane,Total Private Dwellings,518673,100,463610,100,EN
+110,City of Ipswich,Separate house,76365,87.5043,64203,88.2625,EN
+110,City of Ipswich,Medium density,9917,11.3636,7664,10.536,EN
+110,City of Ipswich,High density,453,0.5191,219,0.3011,EN
+110,City of Ipswich,"Caravans, cabin, houseboat",274,0.314,352,0.4839,EN
+110,City of Ipswich,Other,129,0.1478,97,0.1333,EN
+110,City of Ipswich,Not stated,132,0.1513,206,0.2832,EN
+110,City of Ipswich,Total Private Dwellings,87270,100,72741,100,EN
+120,Gold Coast City,Separate house,141686,52.4266,130198,54.4775,EN
+120,Gold Coast City,Medium density,65115,24.0938,58686,24.5554,EN
+120,Gold Coast City,High density,60153,22.2578,45732,19.1352,EN
+120,Gold Coast City,"Caravans, cabin, houseboat",1975,0.7308,2754,1.1523,EN
+120,Gold Coast City,Other,429,0.1587,428,0.1791,EN
+120,Gold Coast City,Not stated,898,0.3323,1196,0.5004,EN
+120,Gold Coast City,Total Private Dwellings,270256,100,238994,100,EN
+130,Lockyer Valley Regional Council,Separate house,15032,93.1697,13617,91.3893,EN
+130,Lockyer Valley Regional Council,Medium density,885,5.4853,664,4.4564,EN
+130,Lockyer Valley Regional Council,High density,0,,0,,EN
+130,Lockyer Valley Regional Council,"Caravans, cabin, houseboat",73,0.4525,253,1.698,EN
+130,Lockyer Valley Regional Council,Other,60,0.3719,250,1.6779,EN
+130,Lockyer Valley Regional Council,Not stated,84,0.5206,116,0.7785,EN
+130,Lockyer Valley Regional Council,Total Private Dwellings,16134,100,14900,100,EN
+140,Logan City,Separate house,105169,83.5139,93303,84.9166,EN
+140,Logan City,Medium density,19199,15.2458,15156,13.7937,EN
+140,Logan City,High density,803,0.6377,324,0.2949,EN
+140,Logan City,"Caravans, cabin, houseboat",426,0.3383,556,0.506,EN
+140,Logan City,Other,127,0.1008,204,0.1857,EN
+140,Logan City,Not stated,206,0.1636,333,0.3031,EN
+140,Logan City,Total Private Dwellings,125930,100,109876,100,EN
+150,Moreton Bay Region,Separate house,149684,79.535,135595,81.2559,EN
+150,Moreton Bay Region,Medium density,31520,16.7482,24757,14.8357,EN
+150,Moreton Bay Region,High density,4836,2.5696,4209,2.5223,EN
+150,Moreton Bay Region,"Caravans, cabin, houseboat",1686,0.8959,1676,1.0044,EN
+150,Moreton Bay Region,Other,186,0.0988,195,0.1169,EN
+150,Moreton Bay Region,Not stated,287,0.1525,442,0.2649,EN
+150,Moreton Bay Region,Total Private Dwellings,188199,100,166874,100,EN
+160,Noosa Shire Council,Separate house,20772,72.7107,19635,73.3333,EN
+160,Noosa Shire Council,Medium density,5559,19.4588,5120,19.1223,EN
+160,Noosa Shire Council,High density,1820,6.3708,1239,4.6275,EN
+160,Noosa Shire Council,"Caravans, cabin, houseboat",231,0.8086,470,1.7554,EN
+160,Noosa Shire Council,Other,38,0.133,117,0.437,EN
+160,Noosa Shire Council,Not stated,148,0.5181,194,0.7246,EN
+160,Noosa Shire Council,Total Private Dwellings,28568,100,26775,100,EN
+170,Redland City,Separate house,53978,82.8354,50250,84.1046,EN
+170,Redland City,Medium density,9590,14.7169,8084,13.5304,EN
+170,Redland City,High density,1181,1.8124,602,1.0076,EN
+170,Redland City,"Caravans, cabin, houseboat",249,0.3821,438,0.7331,EN
+170,Redland City,Other,76,0.1166,112,0.1875,EN
+170,Redland City,Not stated,89,0.1366,261,0.4368,EN
+170,Redland City,Total Private Dwellings,65163,100,59747,100,EN
+180,Scenic Rim Regional Council,Separate house,16741,91.0579,15404,91.9258,EN
+180,Scenic Rim Regional Council,Medium density,1238,6.7338,845,5.0427,EN
+180,Scenic Rim Regional Council,High density,11,0.0598,65,0.3879,EN
+180,Scenic Rim Regional Council,"Caravans, cabin, houseboat",244,1.3272,245,1.4621,EN
+180,Scenic Rim Regional Council,Other,88,0.4787,137,0.8176,EN
+180,Scenic Rim Regional Council,Not stated,63,0.3427,61,0.364,EN
+180,Scenic Rim Regional Council,Total Private Dwellings,18385,100,16757,100,EN
+190,Somerset Regional Council,Separate house,10491,95.4161,9934,95.2262,EN
+190,Somerset Regional Council,Medium density,222,2.0191,173,1.6584,EN
+190,Somerset Regional Council,High density,0,,0,,EN
+190,Somerset Regional Council,"Caravans, cabin, houseboat",219,1.9918,134,1.2845,EN
+190,Somerset Regional Council,Other,36,0.3274,66,0.6327,EN
+190,Somerset Regional Council,Not stated,27,0.2456,125,1.1982,EN
+190,Somerset Regional Council,Total Private Dwellings,10995,100,10432,100,EN
+200,Sunshine Coast Council,Separate house,103126,69.3769,90753,69.8218,EN
+200,Sunshine Coast Council,Medium density,26725,17.979,22560,17.3568,EN
+200,Sunshine Coast Council,High density,15837,10.6542,12560,9.6632,EN
+200,Sunshine Coast Council,"Caravans, cabin, houseboat",1955,1.3152,3103,2.3873,EN
+200,Sunshine Coast Council,Other,352,0.2368,243,0.187,EN
+200,Sunshine Coast Council,Not stated,651,0.438,759,0.5839,EN
+200,Sunshine Coast Council,Total Private Dwellings,148646,100,129978,100,EN
+210,Toowoomba Regional Council,Separate house,60027,81.2559,55612,81.4076,EN
+210,Toowoomba Regional Council,Medium density,12786,17.3078,11413,16.7069,EN
+210,Toowoomba Regional Council,High density,285,0.3858,194,0.284,EN
+210,Toowoomba Regional Council,"Caravans, cabin, houseboat",450,0.6091,366,0.5358,EN
+210,Toowoomba Regional Council,Other,169,0.2288,267,0.3908,EN
+210,Toowoomba Regional Council,Not stated,157,0.2125,461,0.6748,EN
+210,Toowoomba Regional Council,Total Private Dwellings,73874,100,68313,100,EN
+220,COMSEQ excluding Gold Coast,Separate house,923414,72.0383,849190,74.4902,EN
+220,COMSEQ excluding Gold Coast,Medium density,210059,16.3873,178042,15.6177,EN
+220,COMSEQ excluding Gold Coast,High density,136360,10.6379,95456,8.3733,EN
+220,COMSEQ excluding Gold Coast,"Caravans, cabin, houseboat",7221,0.5633,9498,0.8332,EN
+220,COMSEQ excluding Gold Coast,Other,1717,0.1339,2681,0.2352,EN
+220,COMSEQ excluding Gold Coast,Not stated,3066,0.2392,5136,0.4505,EN
+220,COMSEQ excluding Gold Coast,Total Private Dwellings,1281837,100,1140003,100,EN
